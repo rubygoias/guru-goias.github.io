@@ -1,22 +1,70 @@
-# Código de conduta do colaborador
+# Código de Conduta para Colaboradores
 
-Como colaboradores e mantenedores deste projeto, e no interesse de promover uma comunidade aberta e receptiva, comprometemo-nos a respeitar todas as pessoas que contribuem por meio de relatórios, postagem de solicitações de recursos, atualização de documentação, envio de solicitações ou correções e outras atividades.
+## Nossa promessa
 
-Temos o compromisso de tornar a participação neste projeto uma experiência livre de assédio para todos, independentemente do nível de experiência, gênero, identidade e expressão de gênero, orientação sexual, deficiência, aparência pessoal, tamanho corporal, raça, etnia, idade, religião ou nacionalidade.
+Com o interesse de fomentar uma comunidade aberta e acolhedora,
+nós, como colaboradores e administradores deste projeto, comprometemo-nos
+a fazer a participação deste projeto uma experiência livre de assédio
+para todos, independentemente da aparência pessoal, deficiência,
+etnia, gênero, idade, identidade ou expressão de gênero, identidade
+ou orientação sexual, nacionalidade, nível de experiência, porte físico,
+raça ou religião.
 
-Exemplos de comportamento inaceitável pelos participantes incluem:
+## Nossos padrões
 
-* O uso de linguagem ou imagens sexualizadas
-* Ataques pessoais
-* Trolling ou insultos / comentários depreciativos
-Assédio público ou privado
-* Publicação de informações privadas de outras pessoas, como endereços físicos ou eletrônicos, sem permissão explícita
-* Outra conduta antiética ou não profissional.
+Exemplos de comportamentos que contribuem a criar um ambiente positivo incluem:
 
-Os mantenedores do projeto têm o direito e a responsabilidade de remover, editar ou rejeitar comentários, confirmações, códigos, edições do wiki, problemas e outras contribuições que não estejam alinhadas a este Código de Conduta. Ao adotar este Código de Conduta, os mantenedores do projeto se comprometem a aplicar de forma justa e consistente esses princípios a todos os aspectos da administração deste projeto. Os mantenedores do projeto que não seguem ou aplicam o Código de Conduta podem ser permanentemente removidos da equipe do projeto.
+* Usar linguagem acolhedora e inclusiva
+* Respeitar pontos de vista e experiências diferentes
+* Aceitar crítica construtiva com graça
+* Focar no que é melhor para a comunidade
+* Mostrar empatia com outros membros da comunidade
 
-Este código de conduta aplica-se tanto aos espaços do projeto quanto aos espaços públicos quando um indivíduo está representando o projeto ou sua comunidade.
+Exemplos de comportamentos inaceitáveis por parte dos participantes incluem:
 
-Instâncias de comportamento abusivo, de assédio ou inaceitável podem ser relatadas abrindo uma questão ou contatando um ou mais dos mantenedores do projeto.
+* Uso de linguagem ou imagens sexuais e atenção ou avanço sexual indesejada
+* Comentários insultuosos e/ou depreciativos e ataques pessoais ou políticos (*Trolling*)
+* Assédio público ou privado
+* Publicar informação pessoal de outros sem permissão explícita, como, por exemplo, um endereço eletrônico ou residencial
+* Qualquer outra forma de conduta que pode ser razoavelmente considerada inapropriada num ambiente profissional
 
-Este Código de Conduta é adaptado do [Pacto do Colaborador] (http://contributor-covenant.org), versão 1.2.0, disponível em [http://contributor-covenant.org/version/1/2/0/ ] (http://contributor-covenant.org/version/1/2/0/)
+## Nossas responsibilidades
+
+Os administradores do projeto são responsáveis por esclarecer os padrões de
+comportamento e deverão tomar ação corretiva apropriada e justa em resposta
+a qualquer instância de comportamento inaceitável.
+
+Os administradores do projeto têm o direito e a responsabilidade de
+remover, editar ou rejeitar comentários, commits, código, edições
+na wiki, erros ou outras formas de contribuição que não estejam de
+acordo com este Código de Conduta, bem como banir temporariamente ou
+permanentemente qualquer colaborador por qualquer outro comportamento
+que se considere impróprio, perigoso, ofensivo ou problemático.
+
+## Escopo
+
+Este Código de Conduta aplica-se dentro dos espaços do projeto ou
+qualquer espaço público onde alguém represente o mesmo ou a sua
+comunidade. Exemplos de representação do projeto ou comunidade incluem
+usar um endereço de email oficial do projeto, postar por uma conta de
+mídia social oficial, ou agir como um representante designado num evento
+online ou offline. A representação de um projeto pode ser ainda definida e
+esclarecida pelos administradores do projeto.
+
+## Aplicação
+
+Comportamento abusivo, de assédio ou de outros tipos pode ser
+comunicado contatando a equipe do projeto. Todas as queixas serão revistas e investigadas e
+resultarão numa resposta necessária e apropriada à situação.
+A equipe é obrigada a manter a confidencialidade em relação
+ao elemento que reportou o incidente. Demais detalhes de
+políticas de aplicação podem ser postadas separadamente.
+
+Administradores do projeto que não sigam ou não mantenham o Código
+de Conduta em boa fé podem enfrentar repercussões temporárias ou permanentes
+determinadas por outros membros da liderança do projeto.
+
+## Atribuição
+
+Este Código de Conduta é adaptado do [Contributor Covenant](https://www.contributor-covenant.org),
+versão 1.4, disponível em https://www.contributor-covenant.org/pt-br/version/1/4/code-of-conduct.html
