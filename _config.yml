@@ -1,2 +1,27 @@
-baseurl: 'guru-goias.github.io/'
-theme: jekyll-theme-cayman
+# Site settings
+title: Guru-GO
+email: you@example.com
+description: > # this means to ignore newlines until "baseurl:"
+  A simple, whitespace, helvetica based portfolio theme.
+baseurl:  'guru-goias.github.io'
+url:  # the base hostname & protocol for your site
+twitter_username: twitter_username
+github_username:  github_username
+
+# Build settings
+markdown: kramdown
+
+highlighter: rouge
+
+# Pagination
+paginate: 15
+paginate_path: "/sobre/page:num/"
+
+
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+  poetry:
+    output: true
+    permalink: /poetry/:path/

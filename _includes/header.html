@@ -1,0 +1,18 @@
+
+<header class="site-header" style="background-color: #FFF">    
+  <div class="wrapper">    
+    <img src="/img/guru_go_web_logo.png">
+    <nav class="site-nav">      
+      <div class="trigger">                  
+        <!-- {{ site.title }} instead of blog -->        
+
+        {% for page in site.pages %}
+          {% if page.title %}
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% endif %}
+        {% endfor %}
+        <a class="page-link" href="{{ site.baseurl }}/">Sobre</a>
+      </div>
+    </nav>
+  </div>
+</header>
