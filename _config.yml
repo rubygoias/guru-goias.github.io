@@ -8,6 +8,15 @@ url:  # the base hostname & protocol for your site
 twitter_username: twitter_username
 github_username:  github_username
 
+github: [metadata]
+ encoding: UTF-8
+ kramdown:
+   input: GFM
+   hard_wrap: false
+ future: true
+ jailed: false
+ gfm_quirks: paragraph_end
+
 # Build settings
 markdown: kramdown
 
