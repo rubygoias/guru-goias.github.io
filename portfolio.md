@@ -14,7 +14,7 @@ permalink: /patrocinadores/
     A seguir uma lista de empresas e instituições que já nos ajudaram em encontros passados.
 </p>
 
-<ul class="grid container-fluid">
+<ul class="grid">
     <li>
         <a href="https://www.supera.com.br" target="_blamk"> 
             <img src="/gurugo/img/partner/supera.png"/>
