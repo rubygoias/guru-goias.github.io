@@ -14,7 +14,7 @@ permalink: /patrocinadores/
     A seguir uma lista de empresas e instituições que já nos ajudaram em encontros passados.
 </p>
 
-<ul class="grid">
+<ul class="grid container-fluid">
     <li>
         <a href="https://www.supera.com.br" target="_blamk"> 
             <img src="/gurugo/img/partner/supera.png"/>
@@ -40,9 +40,8 @@ permalink: /patrocinadores/
 <style>
 .grid {
     display: grid;
-    grid-template-columns: 33.33% 33.33% 33.33%;
-    grid-template-rows: auto auto auto;
-    grid-gap: 20px;
+    grid-template-columns: 220px 220px 220px;
+    grid-template-rows: auto;
 }
 
 .grid li {
@@ -50,4 +49,8 @@ permalink: /patrocinadores/
     margin: 0px auto;    
     justify-self: center;
     align-self: center;
+}
+
+.grid img {
+    width: 200px
 }
