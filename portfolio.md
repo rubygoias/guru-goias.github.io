@@ -4,39 +4,40 @@ title: Patrocinadores
 permalink: /patrocinadores/
 ---
 
-<p>
+<div class="wrapper">
+  <p>
     Nossos encontros presenciais são possíveis graças a empresas e instituições que nos apoiam fornecendo um local com boa infraestrutura, localização de fácil acesso e coffee-break para os participantes, além de outros itens como camisetas e brindes.
-</p>
-<p>
+  </p>
+  <p>
     O GURU-GO agradece a todas as pessoas e instituições que nos apoiaram de alguma forma.
-</p>
-<p>
+  </p>
+  <p>
     A seguir uma lista de empresas e instituições que já nos ajudaram em encontros passados.
-</p>
+  </p>
 
-<ul class="grid">
+  <ul class="grid">
     <li>
-        <a href="https://www.supera.com.br" target="_blamk"> 
-            <img src="/gurugo/img/partner/supera.png"/>
-        </a>
+      <a href="https://www.supera.com.br" target="_blamk"> 
+        <img src="/gurugo/img/partner/supera.png"/>
+      </a>
     </li>    
     <li>
-        <a href="https://meucredere.com.br/" target="_blamk"> 
-            <img src="/gurugo/img/partner/credere.png">
-        </a>
+      <a href="https://meucredere.com.br/" target="_blamk"> 
+        <img src="/gurugo/img/partner/credere.png">
+      </a>
     </li>
     <li>
-        <a href="https://www.sebrae.com.br/sites/PortalSebrae/ufs/go" target="_blamk"> 
-            <img src="/gurugo/img/partner/sebrae-go.png">
-        </a>
+      <a href="https://www.sebrae.com.br/sites/PortalSebrae/ufs/go" target="_blamk"> 
+        <img src="/gurugo/img/partner/sebrae-go.png">
+      </a>
     </li>    
-    <!-- <li>
-        <a href="http://unicietec.unievangelica.edu.br/" target="_blamk"> 
-            <img src="/img/partner/unicietec.png">
-        </a>
-    </li>     -->
-</ul>  
-
+        <!-- <li>
+            <a href="http://unicietec.unievangelica.edu.br/" target="_blamk"> 
+                <img src="/img/partner/unicietec.png">
+            </a>
+        </li>     -->
+  </ul>  
+</div>
 <style>
 .grid {
     display: grid;
