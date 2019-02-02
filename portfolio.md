@@ -17,17 +17,17 @@ permalink: /patrocinadores/
 <ul class="grid">
     <li>
         <a href="https://www.supera.com.br" target="_blamk"> 
-            <img src="/img/partner/supera.png"/>
+            <img src="/gurugo/img/partner/supera.png"/>
         </a>
     </li>    
     <li>
         <a href="https://meucredere.com.br/" target="_blamk"> 
-            <img src="/img/partner/credere.png">
+            <img src="/gurugo/img/partner/credere.png">
         </a>
     </li>
     <li>
         <a href="https://www.sebrae.com.br/sites/PortalSebrae/ufs/go" target="_blamk"> 
-            <img src="/img/partner/sebrae-go.png">
+            <img src="/gurugo/img/partner/sebrae-go.png">
         </a>
     </li>    
     <!-- <li>
