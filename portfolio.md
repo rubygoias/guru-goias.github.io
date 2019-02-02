@@ -38,11 +38,11 @@ permalink: /patrocinadores/
 </ul>  
 
 <style>
-.grid {
+/* .grid {
     display: grid;
     grid-template-columns: 220px 220px 220px;
     grid-template-rows: auto;
-}
+} */
 
 .grid li {
     list-style-type: none;
